@@ -1,1 +1,6 @@
-https://editor.p5js.org/RayanSilva00/sketches/kcCyG8e4A
+- Seja bem vindo ao meu perfil:💙
+- Meu nome é Rayan Henrico da Silva
+- Estou estudando ALURA
+- Estou me desenvolvendo na linguagem JavaScript
+- ![](https://media1.tenor.com/m/ZnpxgNXkVbEAAAAd/helldivers-automaton.gif)
+- 
